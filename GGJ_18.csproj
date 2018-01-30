@@ -53,7 +53,7 @@
     <Compile Include="Position.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ScopedRandom.cs" />
+    <Compile Include="LevelScopedRandom.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
